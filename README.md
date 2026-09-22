@@ -2,7 +2,9 @@
 
 **Suono** — uno strumento musicale visivo in un unico file HTML, senza librerie (canvas + Web Audio).
 
-Apri `suono.html` nel browser e tocca per iniziare.
+Provalo online: https://gillus.github.io/FableMusica/
+
+Oppure apri `index.html` nel browser e tocca per iniziare.
 
 - Muovendo il mouse o il dito dipingi scie di particelle e suoni: la posizione orizzontale sceglie la nota, quella verticale il timbro.
 - Le note sono sempre intonate su una scala a scelta: pentatonica, maggiore, minore, blues.
